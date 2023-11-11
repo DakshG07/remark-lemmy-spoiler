@@ -1,4 +1,4 @@
-# `remark-lemmy-spoilers`
+# `remark-lemmy-spoiler`
 A remark and rehype plugin that adds support for Lemmy spoilers.
 
 ## PSA
